@@ -6,6 +6,8 @@ First I used multiple SQL scripts to clean, aggregate and wrangle data
 
 Then used extracted data to create exploratory interactive Tableau Dashboard
 
+Dashboard Link: https://public.tableau.com/app/profile/zachary.picard4083/viz/NashevilleHousing_EDA/Dashboard2
+
 Then used predictive models 
 - Linear Regression Model
 - Decision Tree Regressor Model
